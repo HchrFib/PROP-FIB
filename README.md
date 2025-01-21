@@ -9,4 +9,4 @@ To implement the recommender system we used the following methods:
 
 - Collaborative filtering: k-means” + “Slope one”
 - Content-based filtering is a strategy based on the “k-nearest neighbors (k-NN)” algorithm has been implemented.
-- Hybrid approaches: Collaborative filtering + Content-based filtering, they are strategies that combine techniques based on the two previous approaches. 
+- Hybrid approaches: Collaborative filtering + Content-based filtering.
