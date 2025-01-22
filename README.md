@@ -56,3 +56,24 @@ If you want to delete the extracted files to free up space or reset the setup, r
     
 This will remove the archivos/ folder created during the extraction.
 
+Una vez ejecutado el programa, aparecerá la ventana principal (vista principal).
+
+## Probar el recomendador
+
+Paso 1: cargar directorio
+Para usar las diferentes funcionalidades del programa lo primero que tenemos que hacer es cargar directorio 
+Vamos a la pestaña  Archivo, y elegimos cualquiera de las capetas:
+-  moviesxxx
+-  seriesxxx
+Donde xxx puede ser: 250, 750, 2250
+
+Usar uno de los id's de usuario correspondientes a cada directorio
+
+Directorio movies250, podemos usar los siguientes id's = 79268, 16498, 93998
+Directorio movies750, podemos usar los siguientes id's = 35368, 96428, 252578
+
+Directorio movies2250, podemos usar los siguientes id's = 205948, 247718, 5158
+
+Directorio series250, podemos usar los siguientes id's = 934, 6746, 5081
+Directorio series750, podemos usar los siguientes id's = 150, 205, 80
+Directorio series2250, podemos usar los siguientes id's = 28171, 31240, 9253
