@@ -73,6 +73,3 @@ Use one of the user id's corresponding to each directory
 - Directory movies250, we can use the following id's = 79268, 16498, 93998
 - Directory movies750, we can use the following id's = 35368, 96428, 252578
 - Directory movies2250, we can use the following id's = 205948, 247718, 5158
-- Directory series250, we can use the following id's = 934, 6746, 5081
-- Directory series750, we can use the following id's = 150, 205, 80
-- Directory series2250, we can use the following id's = 28171, 31240, 9253
