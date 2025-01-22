@@ -56,24 +56,23 @@ If you want to delete the extracted files to free up space or reset the setup, r
     
 This will remove the archivos/ folder created during the extraction.
 
-Una vez ejecutado el programa, aparecerá la ventana principal (vista principal).
+Once the program is executed, the main window (main view) will appear.
 
-## Probar el recomendador
+## Testing the recommender
 
-Paso 1: cargar directorio
-Para usar las diferentes funcionalidades del programa lo primero que tenemos que hacer es cargar directorio 
-Vamos a la pestaña  Archivo, y elegimos cualquiera de las capetas:
--  moviesxxx
--  seriesxxx
-Donde xxx puede ser: 250, 750, 2250
+Step 1: Load directory
 
-Usar uno de los id's de usuario correspondientes a cada directorio
+To use the different functionalities of the program, the first thing we have to do is load a directory
+Let's go to the File tab, and choose any of the folders:
+- moviesxxx
+- seriesxxx
+Where xxx can be: 250, 750, 2250
 
-Directorio movies250, podemos usar los siguientes id's = 79268, 16498, 93998
-Directorio movies750, podemos usar los siguientes id's = 35368, 96428, 252578
+Use one of the user id's corresponding to each directory
 
-Directorio movies2250, podemos usar los siguientes id's = 205948, 247718, 5158
-
-Directorio series250, podemos usar los siguientes id's = 934, 6746, 5081
-Directorio series750, podemos usar los siguientes id's = 150, 205, 80
-Directorio series2250, podemos usar los siguientes id's = 28171, 31240, 9253
+- Directory movies250, we can use the following id's = 79268, 16498, 93998
+- Directory movies750, we can use the following id's = 35368, 96428, 252578
+- Directory movies2250, we can use the following id's = 205948, 247718, 5158
+- Directory series250, we can use the following id's = 934, 6746, 5081
+- Directory series750, we can use the following id's = 150, 205, 80
+- Directory series2250, we can use the following id's = 28171, 31240, 9253
