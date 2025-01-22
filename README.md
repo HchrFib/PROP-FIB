@@ -10,7 +10,14 @@ To implement the recommender system we used the following methods:
 - Collaborative filtering: k-means” + “Slope one”
 - Content-based filtering is a strategy based on the “k-nearest neighbors (k-NN)” algorithm has been implemented.
 - Hybrid approaches: Collaborative filtering + Content-based filtering.
-  
+
+The project is developed entirely in the Java programming language, using a 3-layer architecture:
+
+It consists of:
+- Presentation Layer
+- Domain Layer
+- Data Management Layer (or Persistence Layer)
+ 
 ## Execution
 
 To run this recommendation system, follow the steps below:
