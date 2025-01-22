@@ -20,6 +20,8 @@ To run this recommendation system, follow the steps below:
  >
 
     git clone https://github.com/your_username/your_repository.git
+  >
+
     cd your_repository/EXE
 
 Ensure the following files are present in the EXE folder:
@@ -28,21 +30,22 @@ Ensure the following files are present in the EXE folder:
     archivos.zip: A compressed archive containing the required datasets.
 
 Use the make command to extract the archivos.zip file and prepare the datasets:
-  > make unzip
 
+    make unzip
+    
 2. Run the Recommendation System
 
 After extracting the datasets, run the recommendation system using the following command:
 
-> make all
-
+    make all
+    
 This will execute the recommender_system.jar file and launch the program.
 
 3. Clean Up Files
 
 If you want to delete the extracted files to free up space or reset the setup, run:
 
-> make clean
-
+    make clean
+    
 This will remove the archivos/ folder created during the extraction.
 
