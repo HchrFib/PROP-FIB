@@ -17,12 +17,12 @@ To run this recommendation system, follow the steps below:
 1. Download and Extract
 
     Clone this repository or download it as a ZIP file:
+ > 
+
+    git clone https://github.com/christianFIB/PROP-FIB.git
  >
 
-    git clone https://github.com/your_username/your_repository.git
-  >
-
-    cd your_repository/EXE
+    cd PROP-FIB/EXE
 
 Ensure the following files are present in the EXE folder:
 
