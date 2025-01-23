@@ -59,17 +59,3 @@ This will remove the archivos/ folder created during the extraction.
 Once the program is executed, the main window (main view) will appear.
 
 ## Testing the recommender
-
-Step 1: Load directory
-
-To use the different functionalities of the program, the first thing we have to do is load a directory
-Let's go to the File tab, and choose any of the folders:
-- moviesxxx
-- seriesxxx
-Where xxx can be: 250, 750, 2250
-
-Use one of the user id's corresponding to each directory
-
-- Directory movies250, we can use the following id's = 79268, 16498, 93998
-- Directory movies750, we can use the following id's = 35368, 96428, 252578
-- Directory movies2250, we can use the following id's = 205948, 247718, 5158
