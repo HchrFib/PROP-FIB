@@ -59,3 +59,5 @@ This will remove the archivos/ folder created during the extraction.
 Once the program is executed, the main window (main view) will appear.
 
 ## Testing the recommender
+
+[See example of use](DOCS/Testing_the_recommender.pdf)
