@@ -49,8 +49,9 @@ Ensure the following files are present in the EXE folder:
     recommender_system_terminal.jar and recommender_system_GUI: The main executable file of the recommendation system.
     archivos.zip: A compressed archive containing the required datasets.
 
-| Executable directory:    | [Directory executable](/EXE)
-| Documentation directory: | [Directory executable](/DOCS)
+| Executable directory:    | [Directory executable](/EXE)  |
+|--------------------------|-------------------------------|
+| Documentation directory: | [Directory executable](/DOCS) |
 
 
 2. Run the Recommendation System
