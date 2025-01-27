@@ -56,7 +56,8 @@ Ensure the following files are present in the EXE folder:
 Use the make command to extract the archivos.7z file and prepare the datasets, run the recommendation system using the following command:
 
     make all
-
+    
+The start window will appear and we must choose between the two options [1] terminal version, [2] GUI version
 
 |        |    Recommender system               |
 |--------|-------------------------------------|
