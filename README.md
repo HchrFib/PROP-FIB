@@ -38,13 +38,12 @@ To run this recommendation system, follow the steps below:
 1. Download and Extract
 
     Clone this repository or download it as a .7z file:
- > 
-
+```
     git clone https://github.com/christianFIB/PROP-FIB.git
- >
-
+```
+```
     cd PROP-FIB/EXE
-
+``
 Ensure the following files are present in the EXE folder:
 
     recommender_system.jar: The main executable file of the recommendation system.
