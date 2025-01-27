@@ -17,13 +17,27 @@ It consists of:
 - Presentation Layer
 - Domain Layer
 - Data Management Layer (or Persistence Layer)
- 
+
+## Project Execution Description
+
+This project contains two versions of a Java application: a terminal version and a graphical user interface (GUI) version. The project includes a Makefile that automates the process of unpacking files and running the application versions.
+
+Features:
+
+- Automatic Decompression: Decompresses a .7z file with the resources needed for the project.
+- Version Choice: Allows you to choose between running the terminal version or the GUI version of the Java application.
+- Makefile Automation: Uses a Makefile to facilitate the configuration and execution process.
+
+## Requirements:
+
+- Java 8 or higher
+- 7-Zip
 ## Execution
 
 To run this recommendation system, follow the steps below:
 1. Download and Extract
 
-    Clone this repository or download it as a ZIP file:
+    Clone this repository or download it as a .7z file:
  > 
 
     git clone https://github.com/christianFIB/PROP-FIB.git
@@ -36,17 +50,27 @@ Ensure the following files are present in the EXE folder:
     recommender_system.jar: The main executable file of the recommendation system.
     archivos.zip: A compressed archive containing the required datasets.
 
-Use the make command to extract the archivos.zip file and prepare the datasets:
-
-    make unzip
     
 2. Run the Recommendation System
 
-After extracting the datasets, run the recommendation system using the following command:
+Use the make command to extract the archivos.7z file and prepare the datasets, run the recommendation system using the following command:
 
     make all
-    
-This will execute the recommender_system.jar file and launch the program.
+
+##################################################
+#####                                        #####
+#####        Recommender system              #####
+#####                                        #####
+##################################################
+#####                                        #####
+#####        Select the version to run       #####
+#####        [1] Terminal version            #####
+#####        [2] GUI version                 #####
+#####                                        #####
+##################################################
+Option: 1 or 2
+
+This will execute the recommender_system_terminal.jar and recommender_system_GUI files and launch the program.
 
 3. Clean Up Files
 
@@ -58,7 +82,7 @@ This will remove the archivos/ folder created during the extraction.
 
 Once the program is executed, the main window (main view) will appear.
 
-## Testing the recommender 
+## Testing the "Recommender systems"
 
 > [See example of use](DOCS/Testing_the_recommender.pdf)
-  
+
