@@ -64,7 +64,7 @@ Use the make command to extract the archivos.7z file and prepare the datasets, r
 |-------------------------------------------------|
 |              |                                  |
 |              | Select the version to run        |
-|-------------------------------------------------|
+|--------------|----------------------------------|
 |              |                                  |
 |          [1] | Terminal version                 |
 |          [2] | GUI version                      |
