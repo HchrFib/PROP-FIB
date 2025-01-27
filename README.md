@@ -58,9 +58,7 @@ Use the make command to extract the archivos.7z file and prepare the datasets, r
     make all
 
 
-|                                                 |
-|             Recommender system                  |
-|                                                 |
+
 |-------------------------------------------------|
 |                |                                |
 |                | Select the version to run      |
@@ -71,10 +69,14 @@ Use the make command to extract the archivos.7z file and prepare the datasets, r
 |----------------|--------------------------------|                                        
 | Option: 1 or 2 |                                | 
 
-| Option | Version           |
-|--------|-------------------|
-| [1]    | Terminal version  |
-| [2]    | GUI version       |
+
+|                                              |
+|             Recommender system               |
+|                                              |
+| Option | Select the version to run           |
+|--------|-------------------------------------|
+|  [1]   | Terminal version                    |
+|  [2]   | GUI version                         |
 
 
 This will execute the recommender_system_terminal.jar and recommender_system_GUI files and launch the program.
