@@ -48,7 +48,9 @@ Ensure the following files are present in the EXE folder:
 
     recommender_system_terminal.jar and recommender_system_GUI: The main executable file of the recommendation system.
     archivos.zip: A compressed archive containing the required datasets.
-[Drectory EXEC](EXEC/)
+
+[Directory EXEC](/EXEC)
+
 2. Run the Recommendation System
 
 Use the make command to extract the archivos.7z file and prepare the datasets, run the recommendation system using the following command:
