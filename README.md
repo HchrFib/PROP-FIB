@@ -70,7 +70,7 @@ Use the make command to extract the archivos.7z file and prepare the datasets, r
 | Option: 1 or 2 |                                | 
 
 
-|                                              |
+|----------------------------------------------|
 |             Recommender system               |
 |                                              |
 | Option | Select the version to run           |
