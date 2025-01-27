@@ -43,7 +43,7 @@ To run this recommendation system, follow the steps below:
 ```
 ```
     cd PROP-FIB/EXE
-``
+```
 Ensure the following files are present in the EXE folder:
 
     recommender_system.jar: The main executable file of the recommendation system.
